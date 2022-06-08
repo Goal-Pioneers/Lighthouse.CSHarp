@@ -1,0 +1,16 @@
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\Lighthouse.exe
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\Lighthouse.deps.json
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\Lighthouse.runtimeconfig.json
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\Lighthouse.runtimeconfig.dev.json
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\Lighthouse.dll
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\ref\Lighthouse.dll
+D:\Workspace\Tower\Code\Lighthouse\bin\x64\Debug\net5.0\Lighthouse.pdb
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.csproj.AssemblyReference.cache
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.AssemblyInfoInputs.cache
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.AssemblyInfo.cs
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.csproj.CoreCompileInputs.cache
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.dll
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\ref\Lighthouse.dll
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.pdb
+D:\Workspace\Tower\Code\Lighthouse\obj\x64\Debug\net5.0\Lighthouse.genruntimeconfig.cache
