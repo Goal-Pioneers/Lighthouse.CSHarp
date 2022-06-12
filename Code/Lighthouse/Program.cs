@@ -9,23 +9,34 @@ namespace Lighthouse
     class Program
     {
         /**
-         * 
+         * Entry function. Function which starts the entire process
          */
         static void Main( string[] arguments )
         {
-            Singleton.initialise();
-            Singleton.execute();
-            Singleton.garbageCollection();
+            Singleton.Initialise();
+            Singleton.Parameters( arguments );
+            Singleton.Execute();
+            Singleton.GarbageCollection();
         }
+
 
         // Variables
         private static Program singleton = null;
 
 
+        /*
+         * 
+         */ 
+        public void Parameters( string[] arguments )
+        {
+
+        }
+
+
         /**
          * 
          */
-        public void initialise()
+        public void Initialise()
         {
             Console.WriteLine( "initialise" );
         }
@@ -34,7 +45,7 @@ namespace Lighthouse
         /**
          * 
          */
-        public void execute()
+        public void Execute()
         {
             Console.WriteLine( "execution" );
         }
@@ -43,7 +54,7 @@ namespace Lighthouse
         /**
          * 
          */
-        public void garbageCollection()
+        public void GarbageCollection()
         {
             Console.WriteLine( "cleaning system" );
         }
